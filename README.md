@@ -52,7 +52,7 @@ if you run update.sh outside of that folder, it will still download the playlist
 
 I did not go to Computer College. I'm more of a tinkerer than a coder. That said, this works for me on yt-dlp version 2024-04-09.
 
-pretty please don't use this for illegal or nefarious purposes. that wouldn't be very Cash Money of you. please be Cash Money with this script. please only use this script to download content whose copyright you will not be infringing upon by downloading it for offline use.
+this isn't intended for copyright infringement or other nefarious purposes. please don't ruin a good thing. we should use this for public domain audios you want to listen to e.g. on a plane when you don't have data. be a good citizen.
 
 # why?
 
