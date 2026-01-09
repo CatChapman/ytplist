@@ -26,6 +26,8 @@ make sure the script is executable (chmod +x ytplist.sh)
 
 run as: ./ytplist.sh [optional playlist URL OR ID here; it will prompt you otherwise]
 
+note that in my experience, you will need to put the URL/playlist ID in quotes if you are using zsh.
+
 you can use the full URL or the playlist ID, it doesn't matter.
 
 IN THE FOLDER where all the audio gets downloaded, you will have an update.sh script produced automagically. if an update.sh already exists in that folder, you will be prompted as to whether or not you want to overwrite it with a new update.sh (e.g. if you are going from 2020/2021 fancy_ytplist.sh to 2024 ytplist.sh, you may want to overwrite the original update.sh!). ideally to update your playlists you'd use the update.sh within the playlist folder, but I wanted to have this presence-checking functionality because it was tedious to continuously remove update.sh during testing as to avoid redundancy in the file itself.
