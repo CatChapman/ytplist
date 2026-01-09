@@ -40,7 +40,7 @@ e.g.
 
 let's say you run this script within "~/Youtube\ Playlists/" for a playlist titled "This is a Playlist"
 
-a folder titled "This\ is\ a\ Playlist/" will be created within "~/Youtube\ Playlists/" and populated with the contents of said playlist, indexed by position in the playlist. so #1 on the list would be 01 - [insert title here], #1 would be 02 - [insert title here] and so on. the file format depends on the video and its container, but it's usually webm and sometimes mp4. VLC is always able to play whatever this downloads.
+a folder titled "This\ is\ a\ Playlist/" will be created within "~/Youtube\ Playlists/" and populated with the contents of said playlist, indexed by position in the playlist. so #1 on the list would be 01 - [insert title here], #2 would be 02 - [insert title here] and so on. the file format depends on the video and its container, but it's usually webm and sometimes mp4. VLC is always able to play whatever this downloads.
 
 an update.sh script will also populate that folder
 
