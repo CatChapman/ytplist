@@ -12,7 +12,7 @@ if you have ffmpeg installed, will provide the option to convert all downloaded 
 
 **you need yt-dlp https://github.com/yt-dlp/yt-dlp**
 
-you also need bash (zsh might work too? i'm a crumudgeon and haven't updated yet).
+you also need bash (zsh works too).
 
 I have only tested this on OS X and some of the GNU utils work slightly differently on mac (whyyyyy) so no guarantees there, but probably won't require too much tinkering if any.
 
